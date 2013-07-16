@@ -1,0 +1,25 @@
+{
+  "name": "perfdata-host",
+  "types": ["module"],
+  "version": "1.4",
+  "homepage": "http://github.com/shinken-monitoring/mod-perfdata-host",
+  "author": "Jean Gabès",
+  "description": "Module for saving host perfdata into a flat file (for Centreon)",
+  "contributors": [
+    {
+      "name": "Jean Gabès",
+      "email": "naparuba@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/shinken-monitoring/mod-perfdata-host",
+  "keywords": [
+    "module",
+    "broker",
+    "perfdata",
+    "centreon"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "AGPL"
+}
