@@ -1,3 +1,4 @@
+<a href='https://travis-ci.org/shinken-monitoring/mod-perfdata-host'><img src='https://api.travis-ci.org/shinken-monitoring/mod-perfdata-host.svg?branch=master' alt='Travis Build'></a>
 mod-perfdata-host
 =================
 
